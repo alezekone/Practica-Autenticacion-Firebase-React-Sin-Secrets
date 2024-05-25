@@ -1,11 +1,8 @@
 # Basic Authentication using Firebase and the useContext hook in React
 
-Based on:
+Three steps to run it:
 
-- [React & Firebase Login con API Context (Firebase Authentication) y Tailwindcss](https://www.youtube.com/watch?v=H_vEJt5Id_I)
-
-Two steps to run it:
-
+- Create and authentication project in Firebase and copy the credentials in src/firebaseConfig/firebase.js
 - npm install
 - npm run dev
 
